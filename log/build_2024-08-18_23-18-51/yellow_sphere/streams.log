@@ -1,0 +1,24 @@
+[0.996s] Invoking command in '/home/anthony/Desktop/Assignment12/src/yellow_sphere': PYTHONPATH=/home/anthony/Desktop/Assignment12/build/yellow_sphere/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/yellow_sphere build --build-base /home/anthony/Desktop/Assignment12/build/yellow_sphere/build install --record /home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log --single-version-externally-managed install_data
+[1.356s] running egg_info
+[1.357s] writing ../../build/yellow_sphere/yellow_sphere.egg-info/PKG-INFO
+[1.358s] writing dependency_links to ../../build/yellow_sphere/yellow_sphere.egg-info/dependency_links.txt
+[1.359s] writing entry points to ../../build/yellow_sphere/yellow_sphere.egg-info/entry_points.txt
+[1.359s] writing requirements to ../../build/yellow_sphere/yellow_sphere.egg-info/requires.txt
+[1.359s] writing top-level names to ../../build/yellow_sphere/yellow_sphere.egg-info/top_level.txt
+[1.361s] reading manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+[1.363s] writing manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+[1.363s] running build
+[1.364s] running build_py
+[1.364s] copying yellow_sphere/follow_sphere.py -> /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere
+[1.364s] running install
+[1.365s] running install_lib
+[1.365s] copying /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere/follow_sphere.py -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere
+[1.366s] byte-compiling /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere/follow_sphere.py to follow_sphere.cpython-310.pyc
+[1.369s] running install_data
+[1.369s] running install_egg_info
+[1.370s] removing '/home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere-0.0.0-py3.10.egg-info' (and everything under it)
+[1.371s] Copying ../../build/yellow_sphere/yellow_sphere.egg-info to /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere-0.0.0-py3.10.egg-info
+[1.371s] running install_scripts
+[1.392s] Installing follow_sphere script to /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/yellow_sphere
+[1.392s] writing list of installed files to '/home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log'
+[1.418s] Invoked command in '/home/anthony/Desktop/Assignment12/src/yellow_sphere' returned '0': PYTHONPATH=/home/anthony/Desktop/Assignment12/build/yellow_sphere/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/yellow_sphere build --build-base /home/anthony/Desktop/Assignment12/build/yellow_sphere/build install --record /home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log --single-version-externally-managed install_data

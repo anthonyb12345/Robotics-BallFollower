@@ -1,0 +1,3 @@
+[console_scripts]
+follow_sphere = yellow_sphere.follow_sphere:main
+

@@ -1,0 +1,33 @@
+[1.149s] Invoking command in '/home/anthony/Desktop/Assignment12/src/yellow_sphere': PYTHONPATH=/home/anthony/Desktop/Assignment12/build/yellow_sphere/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/yellow_sphere build --build-base /home/anthony/Desktop/Assignment12/build/yellow_sphere/build install --record /home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log --single-version-externally-managed install_data
+[1.551s] running egg_info
+[1.552s] creating ../../build/yellow_sphere/yellow_sphere.egg-info
+[1.552s] writing ../../build/yellow_sphere/yellow_sphere.egg-info/PKG-INFO
+[1.553s] writing dependency_links to ../../build/yellow_sphere/yellow_sphere.egg-info/dependency_links.txt
+[1.553s] writing entry points to ../../build/yellow_sphere/yellow_sphere.egg-info/entry_points.txt
+[1.553s] writing requirements to ../../build/yellow_sphere/yellow_sphere.egg-info/requires.txt
+[1.553s] writing top-level names to ../../build/yellow_sphere/yellow_sphere.egg-info/top_level.txt
+[1.553s] writing manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+[1.555s] reading manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+[1.557s] writing manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+[1.557s] running build
+[1.558s] running build_py
+[1.558s] creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build
+[1.558s] creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib
+[1.559s] creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere
+[1.559s] copying yellow_sphere/__init__.py -> /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere
+[1.559s] running install
+[1.559s] running install_lib
+[1.560s] creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere
+[1.561s] copying /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere/__init__.py -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere
+[1.561s] byte-compiling /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere/__init__.py to __init__.cpython-310.pyc
+[1.562s] running install_data
+[1.562s] creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index
+[1.562s] creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index
+[1.563s] creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index/packages
+[1.563s] copying resource/yellow_sphere -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index/packages
+[1.563s] copying package.xml -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/yellow_sphere
+[1.563s] running install_egg_info
+[1.563s] Copying ../../build/yellow_sphere/yellow_sphere.egg-info to /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere-0.0.0-py3.10.egg-info
+[1.565s] running install_scripts
+[1.595s] writing list of installed files to '/home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log'
+[1.627s] Invoked command in '/home/anthony/Desktop/Assignment12/src/yellow_sphere' returned '0': PYTHONPATH=/home/anthony/Desktop/Assignment12/build/yellow_sphere/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/yellow_sphere build --build-base /home/anthony/Desktop/Assignment12/build/yellow_sphere/build install --record /home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log --single-version-externally-managed install_data

@@ -1,0 +1,31 @@
+running egg_info
+creating ../../build/yellow_sphere/yellow_sphere.egg-info
+writing ../../build/yellow_sphere/yellow_sphere.egg-info/PKG-INFO
+writing dependency_links to ../../build/yellow_sphere/yellow_sphere.egg-info/dependency_links.txt
+writing entry points to ../../build/yellow_sphere/yellow_sphere.egg-info/entry_points.txt
+writing requirements to ../../build/yellow_sphere/yellow_sphere.egg-info/requires.txt
+writing top-level names to ../../build/yellow_sphere/yellow_sphere.egg-info/top_level.txt
+writing manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+reading manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+writing manifest file '../../build/yellow_sphere/yellow_sphere.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build
+creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib
+creating /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere
+copying yellow_sphere/__init__.py -> /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere
+running install
+running install_lib
+creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere
+copying /home/anthony/Desktop/Assignment12/build/yellow_sphere/build/lib/yellow_sphere/__init__.py -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere
+byte-compiling /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere/__init__.py to __init__.cpython-310.pyc
+running install_data
+creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index
+creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index
+creating /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index/packages
+copying resource/yellow_sphere -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/ament_index/resource_index/packages
+copying package.xml -> /home/anthony/Desktop/Assignment12/install/yellow_sphere/share/yellow_sphere
+running install_egg_info
+Copying ../../build/yellow_sphere/yellow_sphere.egg-info to /home/anthony/Desktop/Assignment12/install/yellow_sphere/lib/python3.10/site-packages/yellow_sphere-0.0.0-py3.10.egg-info
+running install_scripts
+writing list of installed files to '/home/anthony/Desktop/Assignment12/build/yellow_sphere/install.log'
